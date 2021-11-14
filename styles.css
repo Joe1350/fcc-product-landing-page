@@ -1,8 +1,8 @@
 html {
     background-color: blueviolet;
-  }
+}
   
-  header {
+header {
     background-color: yellow;
     display: flex;
     text-align: center;
@@ -10,64 +10,64 @@ html {
     padding-top: 10px;
     padding-bottom: 20px;
     position: fixed;
-  }
+}
   
-  /* #header-img {
+/* #header-img {
     display: flex;
     float: left;
-  } */
+} */
   
-  #nav-bar {
+#nav-bar {
     display: flex;
     margin: 0 0 0 auto
-  }
+}
   
-  a {
+a {
     padding: 5px;
-  }
+}
   
-  #actual-video {
+#actual-video {
     display: block;
     margin: auto;
     margin-top: 0px;
     margin-bottom: 10px;
     
-  }
+}
   
-  #spacer {
+#spacer {
     height: 130px;
-  }
+}
   
-  #video {
+#video {
     display: none;
-  }
+}
   
-  form {
+form {
     color: white;
     text-align: center;
-  }
+}
   
-  footer {
+footer {
     color: white;
     padding: 100px;
     text-align: center;
-  }
+}
   
-  #product-info {
+#product-info {
     color: white;
     font-size: 18px;
     width: 40%;
     margin-left: 30%;
-  }
+}
   
-  #contact-staff-image {
+#contact-staff-image {
     width: 25%;
     height: 25%;
-  }
+}
   
-  @media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     #actual-video {
-      height: 180px;
-      width: 320px;
+        height: 180px;
+        width: 320px;
     }
-  }
+}
